@@ -1,0 +1,77 @@
+<mjml>
+  <mj-body background-color="#ffffff">
+    <mj-section background-color="#fff" padding="0 0 0 0">
+      <mj-column padding="0 0 0 0">
+        <mj-navbar>
+          <mj-navbar-link padding-top="10px" padding-bottom="7px" font-size="11px" href="www.google.com">
+            Home
+          </mj-navbar-link>
+          <mj-navbar-link padding-top="10px" padding-bottom="7px" font-size="11px" href="www.google.com">
+            Page
+          </mj-navbar-link>
+          <mj-navbar-link padding-top="10px" padding-bottom="7px" font-size="11px" href="www.google.com">
+            About us
+          </mj-navbar-link>
+          <mj-navbar-link padding-top="10px" padding-bottom="7px" font-size="11px" href="www.google.com">
+            contactus
+          </mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding-top="0" background-url="https://i.ibb.co/fSBy1Vn/Leaf-Wallpaper.jpg" background-repeat="no-repeat" background-size="cover" padding-bottom="0">
+      <mj-section padding-bottom="10px" padding-top="0">
+        <mj-column padding-top="0" padding-bottom="0" padding-right="0" padding-left="0" background-color="#ffc104" width="75%">
+          <mj-text align="center" padding="50px 0 0 0" font-size="30px">
+            Sip into Our
+          </mj-text>
+          <mj-text align="center" padding="20px 0 10px 0" font-size="30px" font-weight="bold">
+            Coffee Overture!
+          </mj-text>
+          <mj-button href="#" width="75%" background-color="#000">
+            Discover More
+          </mj-button>
+          <mj-image href="#" src="https://i.ibb.co/0tNhhhS/1701682191194-cup.png" alt="" padding-top="50px" padding-bottom="0" />
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section background-color="#ffc104" padding="0">
+      <mj-column>
+        <mj-text align="center" font-size="16px" padding-top="35px"> We're excited to introduce our </mj-text>
+        <mj-text align="center" font-size="25px" font-weight="800">"Coffee of the Day" </mj-text>
+        <mj-text padding="0 20px" align="center" font-size="16px" line-height="25px">Prepare to embark on a sensory<br /> journey as we unravel the mystique of
+          our "Coffee of the Day" –</mj-text>
+        <mj-text align="center" font-size="30px" color="#fff" padding="25px 0"><span style="background-color:#000;">35% OFF<span> </mj-text>
+        <mj-text align="center" font-size="16px" padding="0px 0 20px 0">
+          Don't miss out on the chance to<br /> experience something new and exciting
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding-bottom="0">
+      <mj-column>
+        <mj-text align="center">
+          <div>
+            <a href="#"><img style="width:30px; margin-right:10px;" src="https://i.ibb.co/s9bwPzd/facebook.png" /></a>
+            <a href="#"><img style="width:30px; margin-right:10px;" src="https://i.ibb.co/K99PYX3/linkedin.png" /></a>
+            <a href="#"><img style="width:30px; margin-right:10px;" src="https://i.ibb.co/DQMPbPT/instagram.png" /></a>
+            <a href="#"><img style="width:30px; margin-right:10px;" src="https://i.ibb.co/frV22yk/x.png" /></a>
+            </d </mj-column> </mj-section> <mj-section background-color="#fff">
+            <mj-column>
+              <mj-text align="center"> UNSUBSCRIBE | PRIVACY POLICY | WEB </mj-text>
+              <mj-text align="center" padding="0 20px" line-height="18px">Lorem ipsum dolor sit amet, consectetur adipiscing<br /> elit, sed do
+                eiusmod tempor incididunt ut labore.</mj-text>
+            </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="#bbbbbb" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="0" padding-bottom="20px">
+      <mj-column>
+        <mj-image href="#" width="120px" src="https://i.ibb.co/26Dwf0Z/logo-black.png" alt="logo" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
